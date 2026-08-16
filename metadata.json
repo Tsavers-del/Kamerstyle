@@ -1,0 +1,8 @@
+{
+  "name": "KamerStyle - Cameroon Dressing Marketplace",
+  "description": "Premier Cameroonian fashion marketplace for buying and selling authentic dressings, royal Bamenda Toghu, Sawa Kaba Ngondo, Bamileke Ndop, modern Ankara, and luxury African bridal attire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
